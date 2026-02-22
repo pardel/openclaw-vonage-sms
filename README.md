@@ -1,4 +1,6 @@
-# Vonage SMS Skill
+# OBSOLETE Vonage SMS Skill
+
+## It has been merged into [https://github.com/pardel/vonage-unofficial-skill](https://github.com/pardel/vonage-unofficial-skill)
 
 SMS-based conversations with your agent via the Vonage Messages API. Vonage handles SMS delivery; the agent responds through OpenClaw's chat completions endpoint.
 
